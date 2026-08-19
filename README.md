@@ -27,7 +27,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/MAFER.jpeg" width="90"/> | **María Fernanda Olortegui Sanchez** | Líder del equipo | Innovación social |
+| <img src="/Recursos/Imágenes/MAFER.jpeg" width="90" height="90"/> | **María Fernanda Olortegui Sanchez** | Líder del equipo | Innovación social |
 | <img src="/Recursos/Imágenes/ANAMI.jpeg" width="90"/> | **Anami Valentina Sanchez Rojas** | Responsable de investigación | Gestión clínica, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/YACELLY.jpeg" width="90"/> | **Yacelly Belén Palacios Domínguez** | Apoyo emocional | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/SHARON.jpeg" width="90"/> | **Sharon Obispo Diaz** | Apoyo del apoyo emocional | Comunicación científica, redacción técnica |
