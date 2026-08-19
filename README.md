@@ -6,7 +6,7 @@
 
 ## 🌍 Descripción del Equipo 
 Somos el **Equipo 09** del curso **Fundamentos de Biodiseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Biomédica.  
-Nuestro objetivo es aplicar la metodología VID 2206 para generar soluciones innovadoras con impacto social y tecnológico. 
+Nuestro objetivo es aplicar la metodología VDI 2206 para generar soluciones innovadoras con impacto social y tecnológico. 
 
 Nos interesa trabajar en base a las problemáticas relacionadas a afecciones neurológicas, posturales y de marcha.
 
