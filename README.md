@@ -29,12 +29,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/MAFER.png" width="90"/> | **María Fernanda Olortegui Sanchez** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/ANAMI.png" width="90"/> | **Anami Valentina Sanchez Rojas** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/YACELLY.png" width="90"/> | **Yacelly Belén Palacios Domínguez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/SHARON.png" width="90"/> | **Sharon Obispo Diaz** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/RODRIGO.png" width="90"/> | **Rodrigo Edson Sandoval Baca** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
-| <img src="/Recursos/Imágenes/GERSON.png" width="90"/> | **Gerson Adriel Rosas Roman** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/MAFER.jpeg" width="90"/> | **María Fernanda Olortegui Sanchez** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/ANAMI.jpeg" width="90"/> | **Anami Valentina Sanchez Rojas** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/YACELLY.jpeg" width="90"/> | **Yacelly Belén Palacios Domínguez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/SHARON.jpeg" width="90"/> | **Sharon Obispo Diaz** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/RODRIGO.jpeg" width="90"/> | **Rodrigo Edson Sandoval Baca** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/GERSON.jpeg" width="90"/> | **Gerson Adriel Rosas Roman** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
