@@ -1,19 +1,17 @@
 # Equipo 09 - Fundamentos de Biodiseño
-### Carrera de Ingeniería Biomedica  
+### Carrera de Ingeniería Biomédica  
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo 
 Somos el **Equipo 09** del curso **Fundamentos de Biodiseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Biomédica.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+Nuestro objetivo es aplicar la metodología VID 2206 para generar soluciones innovadoras con impacto social y tecnológico. 
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
 - ODS 3: Salud y Bienestar  
-- ODS 6: Agua Limpia y Saneamiento  
 - ODS 9: Industria, Innovación e Infraestructura  
-- ODS 11: Ciudades y Comunidades Sostenibles  
-- ODS 13: Acción por el Clima  
+- ODS 11: Ciudades y Comunidades Sostenibles    
 
 ---
 
@@ -29,12 +27,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/MAFER.jpeg" width="90"/> | **María Fernanda Olortegui Sanchez** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/ANAMI.jpeg" width="90"/> | **Anami Valentina Sanchez Rojas** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/YACELLY.jpeg" width="90"/> | **Yacelly Belén Palacios Domínguez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/SHARON.jpeg" width="90"/> | **Sharon Obispo Diaz** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/RODRIGO.jpeg" width="90"/> | **Rodrigo Edson Sandoval Baca** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
-| <img src="/Recursos/Imágenes/GERSON.jpeg" width="90"/> | **Gerson Adriel Rosas Roman** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/MAFER.jpeg" width="90"/> | **María Fernanda Olortegui Sanchez** | Líder del equipo | Innovación social |
+| <img src="/Recursos/Imágenes/ANAMI.jpeg" width="90"/> | **Anami Valentina Sanchez Rojas** | Responsable de investigación | Gestión clínica, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/YACELLY.jpeg" width="90"/> | **Yacelly Belén Palacios Domínguez** | Apoyo emocional | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/SHARON.jpeg" width="90"/> | **Sharon Obispo Diaz** | Apoyo del apoyo emocional | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/RODRIGO.jpeg" width="90"/> | **Rodrigo Edson Sandoval Baca** |  Modelador 3D | Simulación, bocetos |
+| <img src="/Recursos/Imágenes/GERSON.jpeg" width="90"/> | **Gerson Adriel Rosas Roman** | Programador | Programación, análisis de datos, simulación |
 
 ---
 
